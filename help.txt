@@ -1,0 +1,10 @@
+Help Menu: List of Commands
+
+dust     -   you can dust things
+pickup   -   you can pick up something
+make     -   you can make something
+vacume   -   you can vacume something
+open     -   you can open something
+list     -   you can see a list of what you have done
+help     -   you see this list of commands
+exit     -   you can exit the game
